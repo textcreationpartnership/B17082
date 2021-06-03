@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ancient practical laws of England, compared with the laws now practised, to the great grievance of the free-born subject; by an ancient practising barrister at law, who for the greatest part of seventeen years last past, hath been a prisoner of the King's-Bench, Fleet, and other prisons, unjustly confined under undue practices, mentioned in eight of the ten paragraphs underwritten.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17082</idno><idno type="EEBO-CITATION">99887500</idno>
+  <idno type="VID">190472</idno>
+  <idno type="EEBO-PROQUEST">2240882570</idno>
+  
+            <idno type="STC">Wing A3072</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[18]</idno>
+            <idno type="STC">ESTC R227767</idno>
+            <idno type="PROQUEST">ocm99887500</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887500e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17082)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190472)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ancient practical laws of England, compared with the laws now practised, to the great grievance of the free-born subject; by an ancient practising barrister at law, who for the greatest part of seventeen years last past, hath been a prisoner of the King's-Bench, Fleet, and other prisons, unjustly confined under undue practices, mentioned in eight of the ten paragraphs underwritten.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Law --  England --  History --  Early works to 1800.</term>
+               <term type="topical_term">Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:190472:1"/>
+            <head>The Ancient Practical Laws of <hi>England,</hi> compared with the Laws now practised, to the great Grievance of the Free-born Subject; By an Ancient Practising Barrister at Law, who for the greatest part of Seventeen Years last past, hath been a Prisoner of the <hi>King's-Bench, Fleet,</hi> and other Prisons, unjustly Confined under undue Practices, mentioned in Eight of the Ten Paragraphs underwritten.</head>
+            <p n="1">I. BY the Ancient Law of <hi>England,</hi> every Subject who came to the Kings Courts for the Kings Writ, was obliged to bring his Pledges to prosecute his Suit with Ef<g ref="char:EOLhyphen"/>fect, or to pay such Fine to the King as the Court should lay on him for his unjust Clamor, as may appear in all Declarations, not only in the Courts at <hi>Westminster,</hi> but also in all in<g ref="char:EOLhyphen"/>feriour Courts, whether Courts of Record or Courts Baron; and if such Plaintiff were Nonsuited, or a Verdict pass'd against him, he was Amerced to the King, as appears by the Entry of every such Judgment, which is <hi>qd. quer. sit in Misericordia,</hi> or <hi>Capiat. pro In<g ref="char:EOLhyphen"/>justo clamore suo.</hi>
+            </p>
+            <p n="2">II. By the Ancient Law, the King by his Royal Prerogative might Imprison his Subject for Debt, but one Subject could not Imprison another, until the Statute of Action <hi>Burnell.</hi> 13 <hi>Ed.</hi> 1. <hi>&amp;</hi> 27 <hi>Ed.</hi> 3. and some later Statutes in particular Cases, but never pretended to hold any Defendant to Bail, on measne Process un<g ref="char:EOLhyphen"/>less it were for Debt upon Bond, or for Rent in Arrear, or for Debt appearing to be due by some Writing under the Defendants Hand at least, until within Fourty years last past.</p>
+            <p n="3">III. By the Ancient Law of <hi>England,</hi> when an Original was Filed in Debt, the next Pro<g ref="char:EOLhyphen"/>cess was a Summons for the Defendant to appear at a certain day, to answer the Plaintiffs Action; at the Return whereof, if the Defendant did not appear a Writ of <hi>Capias</hi> was awarded to Arrest him, for his contempt of the Authority of the Kings Court, which <hi>Capias</hi> was made Returnable some day in that Term, or the next 15 days at least after the <hi>teste</hi> or date thereof; at which day, if the Sheriff did Return, that the Defendant was not found in his Bayliwick, the Court granted another Writ called an <hi>alias Capias,</hi> directed to the same Sheriff, Returnable 15 days at least after the <hi>teste</hi> or date thereof, command<g ref="char:EOLhyphen"/>ing him to Arrest the Defendant; at which day if the Sheriff returned that the Defendant was not found, <hi>&amp;c.</hi> the Court granted a third Writ called a <hi>Pluries Capias,</hi> with the like <hi>teste</hi> and Return; whereon if the Sheriff Returned the third time, that the Defendant was not found, <hi>&amp;c.</hi> the Court then granted a Writ of <hi>Exigent,</hi> commanding the Sheriff to call the Defendant from County Court to County Court, five Courts following; and also another Writ, called a <hi>Proclamation,</hi> commanding the Sheriff to make three publick Proclamations, one at the County Court, another at the General Quarter Sessions, and the third at the Church-door where the Defendant lived, on a <hi>Sunday</hi> immediately after Sermon or Divine Service; and if the Defendant did then render himself, or retained an Attorney to File a <hi>Supersedeas,</hi> which cost him 2 <hi>s.</hi> 4 <hi>d.</hi> all these Proceedings were dischar<g ref="char:EOLhyphen"/>ged, and his Appearance accepted without Bail, and the Defendant to make his defence as a Free man, but if he then failed to appear after Summons, and so many Writs and Proclamations, he was adjudged an Outlawed person, and thereby to Forfeit the Issues and Profits of all his Lands and Tenements, and all his Goods and Chattels to the King, and his Body to be committed to Prison, and not to have the benefit of the Kings Laws in any of the Kings Courts of Law or Equity.</p>
+            <p n="4">IV. By the Ancient Law, when the Plaintiff had recovered Judgment in any Action, af<g ref="char:EOLhyphen"/>ter a Year had pass'd without any Prosecution, he could not take out any Execution there<g ref="char:EOLhyphen"/>on, without suing forth a <hi>Scire facias,</hi> for the Defendant to shew cause why Execution should not go against him, the Law supposing the Debt might be satisfyed when there had been no Prosecution in all that time.</p>
+            <p n="5">V. By the Ancient Law, when a Writ of Error was brought to reverse any Judg<g ref="char:EOLhyphen"/>ment, and the Plaintiff therein had put Bail, there was a <hi>Supersedeas</hi> to stay all Pro<g ref="char:EOLhyphen"/>ceedings on the Original Judgment, until the Error was tryed, and the Defendant all that while was safe.</p>
+            <p n="6">VI. By the Ancient Law of <hi>England,</hi> generally where one was sued for a Debt with<g ref="char:EOLhyphen"/>out Specialty under the Defendants Hand and Seal, the Defendant might wage his Law by swearing he owed the Plaintiff nothing, and bringing his <hi>Compurgat</hi> into Court, to swear they believed him, he was discharged.</p>
+            <p n="7">VII. By the Ancient Law, when the Debtor had given Bond for what he owed, he was safe until the day of Payment.</p>
+            <p n="8">VIII. By the Ancient Rules of Practice, when one brought an <hi>Audita Querela,</hi> two per<g ref="char:EOLhyphen"/>sons only were required for Bail, and the Presidents were so but Fourty Years since.</p>
+            <p n="9">IX. By the Law of <hi>England,</hi> no Attorney could appear for any Man without his Order.</p>
+            <p n="10">X. By the Ancient Law, If the Defendant pleaded several Matters in his defence or justification to the same thing, the Plaintiff might demur for the uncertainty, for that he could not thereon joyn a single Issue.</p>
+            <p n="1">I. BY the Law now in Practice, every Man that pretends an Action against another, tho' but seigned, hath liberty to Arrest his Adversary for any Sum, and hold him to Bail at his pleasure, without giving any Pledges to Prosecute, but only naming <hi>Jo. Doe</hi> and <hi>Rich. Roe,</hi> or any two imaginary Persons for his Pledges; but if the no<g ref="char:EOLhyphen"/>minating such Pledges be omitted in any Declaration, its held a manifest fatal Error not to be help'd. So zealous are we for Shadows, neglecting Substances.</p>
+            <p n="2">II. By the Law now in Practice, every Man hath liberty not only to Imprison his fel<g ref="char:EOLhyphen"/>low Subject in Execution for Debt, but also to hold him arbitrarily to Bail on mesne Process, which was never practised in <hi>Westminster Hall</hi> in the time of King <hi>Char.</hi> I. the Rump Parliament, the Protectors, nor in the beginning of King <hi>Char.</hi> II. until the Court of <hi>Kings Bench</hi> growing much on the <hi>Common Pleas</hi> by the Writ of <hi>Lat.</hi> which paid no Fine, as Originals in Debt did in the <hi>Common Pleas,</hi> whereby that Court lost not only great part of the Practice, but also the Lord Chancellor and Lord Chief Justice of that Court finding themselves much prejudiced in their Shares of those Fines, they joyned to procure the Statute made in the second Session of Parliament, 13 <hi>Car.</hi> 2. that no Man should be held to Bail, unless the Cause of Action appeared in the Writ; after which, for some Years, the <hi>Common Pleas</hi> recovered ground on the <hi>Kings Bench,</hi> until Sir <hi>Matthew Hale</hi> was made Lord Chief Justice of <hi>England,</hi> who about 1667. incerted the Clause of <hi>ac Etiam Bille, &amp;c.</hi> in the Writ of <hi>Lat.</hi> and by that means regained their ground of the <hi>Common Pleas,</hi> whereof that Court being sensible, found it absolutely necessary to make all their Originals in Trespasses, and to incert the same Clause of <hi>ac Etiam, &amp;c.</hi> in their Writs of <hi>Capias,</hi> and af<g ref="char:EOLhyphen"/>ter Judgment, to File an Original in Debt, perchance in one case of twenty; ever since which time, both Courts have vyed on each other in the point of holding Defendants to Bail: So that in the least Action upon the Case, Trespass, or any other Action, feigning any special Matter whatsoever, tho' never so false in the <hi>ac Etiam,</hi> every Man is Arbi<g ref="char:EOLhyphen"/>trarily Imprisoned as abovesaid, whereby all the Prisons in <hi>England,</hi> especially the <hi>Kings Bench</hi> and <hi>Fleet</hi> are so crowded with Prisoners.</p>
+            <p n="3">III. By the Law now Practised, the Summons is only mentioned in the Decla<g ref="char:EOLhyphen"/>ration, but never served on the Defendant, the three several Writs of <hi>Capias, alias &amp; Pluries,</hi> are all sealed at once, and brought to the Sheriff together, but with several Trespasses and Returns, with 15 days betwixt each of them; and the Sheriff, who is sworn to make no false Returns, must at his peril return then altogether at once, though brought to him so long after their several days of Return, and the Pro<g ref="char:EOLhyphen"/>clamations at the County Court, the Quarter Sessions, and the Church-door, are either not made at all, or so made that they are but a meer Mockery, so contrived that the De<g ref="char:EOLhyphen"/>fendant shall have no notice at all, until he is taken on the Outlawry, and hath thereby forfeited the Issues and Profits of his Lands, and all his Goods and Chattels; and he be<g ref="char:EOLhyphen"/>ing a close Prisoner, his Adversary takes advantage to proceed against him in all Courts, who for want of making his Defence, is condemned and ruined without being heard, and all this Calamity brought upon him without any Fault or Neglect of his in the least; and the Peers of <hi>England</hi> are not absolutely out of Danger in this Case.</p>
+            <p n="4">IV. By the Law now, when a Judgment is Entred, and a Year, two, three, ten, or more are past, the Plaintiff takes an <hi>ac Etiam</hi> out of either of the Courts of <hi>W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stminster,</hi> and holds the Defendant to Bail in double the Judgment, which is the same in effect as if he were taken in Execution; and if sometimes there be a <hi>scire facias,</hi> its but a Formality; for its so managed, that the Defendant shall have no notice thereof, until taken in Execution.</p>
+            <p n="5">V. But now though the Plaintiff in the Writ of Error, hath put in never so good Bail, the Plaintiff in the Original Action may Arrest the Defendant on that Judgment, and Declare in a new Action of Debt, and recover another Judgment, and take the Defen<g ref="char:EOLhyphen"/>dant in Execution thereon, tho' his Writ of Error be depending undetermined.</p>
+            <p n="6">VI. But now all such Actions are turned into Actions on the Case, <hi>Indebitat. Assumpsit, quant. meruit, Insimul Computasset, mutuat.</hi> and several other Actions wherein the Plaintiff may declare for 1000 <hi>l.</hi> or as much as he please, and hold the Defendant to Bail, and if he proves but a penny, he recovers it and his full Costs.</p>
+            <p n="7">VII. But now though the Debtor hath given Bond for what he owes, the Creditor, on pretence the Debtor is about to run away, may Arrest him before the day of Payment, and hold him to Bail.</p>
+            <p n="8">VIII. By the Practice now, four persons are required for Bail in <hi>Audita Querela,</hi> and in time may require four and twenty.</p>
+            <p n="9">IX. By our Law now, if two, three, or four persons, or more, are bound in a Bond or a Bill Obligatory, any one of them may give an Attorney order to appear for himself, and all the rest, and recover Execution against all or any of them without their know<g ref="char:EOLhyphen"/>ledge, and then he himself goes free.</p>
+            <p n="10">X. By the Practice now, the Plaintiff may lay 2, 3, 5, 10, 20 several Promises or more, in one Declaration, and oblige the Defendant to make his Defence to them all at his peril.</p>
+            <p>By these and divers other strange Practices of this sort, the Law of <hi>England,</hi> as it is now practised, compared with what it was anciently, looks like a prodigious Monster, absolutely destructive to the Liberty of the Subject, whereby all the Prisons in <hi>England,</hi> though they have often been emptied by many good Acts, especial<g ref="char:EOLhyphen"/>ly in His present Majesties Reign, yet are they now as full as ever; and should they now be cleared again, will in a Year or two be as full as they are now, unless these Abuses, and many others, be reformed by some good Act or Acts of Parliament.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
